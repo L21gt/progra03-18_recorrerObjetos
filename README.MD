@@ -1,6 +1,6 @@
 Luis Velasquez  
 Carnet 24011341  
-Tarea 18 - recorrerObjetos  (P)  
+Tarea 18 - recorrerObjetos  
 Curso JavaScript Testing  
 
 # INSTRUCCIONES
